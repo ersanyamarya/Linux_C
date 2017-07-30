@@ -7,15 +7,19 @@ This repository contains C codes to know linux in a better way.
 
 * #### Message Queues
 
+
 ```
 The basic idea of a message queue is a simple one. Two (or more) processes can exchange information via access to a common system message queue. The sending process places via some (OS) message-passing module a message onto a queue which can be read by another process.
 ```
 
 * #### Pipe
+
+
 ```
 A pipe is a form of redirection that is used in Linux and other Unix-like operating systems to send the output of one program to another program for further processing. IPC - Inter Process Communication 
 ```
 * #### Processes
+
 ```
 A process is an instance of a program running in Linux or in any OS .
 ```
